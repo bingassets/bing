@@ -1,1 +1,1 @@
-locatioon.href = "https://google.com";
+location.href = "https://google.com";
